@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProcessWire 2.3
 
 ## About ProcessWire
@@ -204,3 +205,7 @@ Get support in the ProcessWire forum at:
 
 ProcessWire, Copyright 2013 by Ryan Cramer Design, LLC
 
+=======
+MiMS
+====
+>>>>>>> 2625bb855d244d2bb5875484a08bbe4af0f09241
